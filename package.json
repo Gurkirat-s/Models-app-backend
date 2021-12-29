@@ -1,0 +1,16 @@
+{
+  "name": "model-hobby",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node index.js"
+  },
+  "author": "Gurkirat Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "sequelize": "^6.12.4"
+  }
+}
